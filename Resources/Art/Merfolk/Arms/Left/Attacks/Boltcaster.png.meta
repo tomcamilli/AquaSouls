@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 998939989982647cc89d2afb1b76f3c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6365200367855759635
+    second: Boltcaster_0
+  - first:
+      213: 3509317716096117515
+    second: Boltcaster_1
+  - first:
+      213: 7706664642562137415
+    second: Boltcaster_2
+  - first:
+      213: -6585047371063849458
+    second: Boltcaster_3
+  - first:
+      213: -3910485679299801580
+    second: Boltcaster_4
+  - first:
+      213: 2173036845277293741
+    second: Boltcaster_5
+  - first:
+      213: 7335665581323093213
+    second: Boltcaster_6
+  - first:
+      213: 6235578597357887482
+    second: Boltcaster_7
+  - first:
+      213: 5146764013132751034
+    second: Boltcaster_8
+  - first:
+      213: -1469182092561946673
+    second: Boltcaster_9
+  - first:
+      213: 4452632229224085250
+    second: Boltcaster_10
+  - first:
+      213: 1213768164074231750
+    second: Boltcaster_11
+  - first:
+      213: 5809137496164879728
+    second: Boltcaster_12
+  - first:
+      213: 5311079005639261082
+    second: Boltcaster_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boltcaster_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1008
+        width: 522
+        height: 356
+      alignment: 9
+      pivot: {x: 0.10138974, y: 0.5876719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3117a32a20cb55850800000000000000
+      internalID: 6365200367855759635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_1
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1052
+        width: 677
+        height: 337
+      alignment: 9
+      pivot: {x: 0.09276397, y: 0.48456445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0be4ef9ed993b030800000000000000
+      internalID: 3509317716096117515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_2
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1103
+        width: 715
+        height: 345
+      alignment: 9
+      pivot: {x: 0.09985676, y: 0.3341436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d9af629a293fa60800000000000000
+      internalID: 7706664642562137415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_3
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1103
+        width: 717
+        height: 345
+      alignment: 9
+      pivot: {x: 0.10097343, y: 0.33414394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e8e9a1e463d94a0800000000000000
+      internalID: -6585047371063849458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_4
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1103
+        width: 715
+        height: 345
+      alignment: 9
+      pivot: {x: 0.09985693, y: 0.3341436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e451a4ef92bb9c0800000000000000
+      internalID: -3910485679299801580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 612
+        width: 717
+        height: 345
+      alignment: 9
+      pivot: {x: 0.108227804, y: 0.33414343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca69e5f7d282e10800000000000000
+      internalID: 2173036845277293741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 612
+        width: 715
+        height: 345
+      alignment: 9
+      pivot: {x: 0.10713198, y: 0.33414343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd482ddeaf48dc560800000000000000
+      internalID: 7335665581323093213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_7
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 612
+        width: 715
+        height: 345
+      alignment: 9
+      pivot: {x: 0.09258154, y: 0.34922123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff9b8062b9398650800000000000000
+      internalID: 6235578597357887482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_8
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 612
+        width: 717
+        height: 345
+      alignment: 9
+      pivot: {x: 0.10097309, y: 0.3190656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0aa89e99afc6740800000000000000
+      internalID: 5146764013132751034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_9
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 612
+        width: 715
+        height: 345
+      alignment: 9
+      pivot: {x: 0.09985693, y: 0.33414343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7ea7ebbaa6c9be0800000000000000
+      internalID: -1469182092561946673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 122
+        width: 717
+        height: 343
+      alignment: 9
+      pivot: {x: 0.108227804, y: 0.3331762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2077b52eb6deacd30800000000000000
+      internalID: 4452632229224085250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_11
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 122
+        width: 715
+        height: 343
+      alignment: 9
+      pivot: {x: 0.11440737, y: 0.3331762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c79253e6bb28d010800000000000000
+      internalID: 1213768164074231750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_12
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 122
+        width: 715
+        height: 343
+      alignment: 9
+      pivot: {x: 0.085306145, y: 0.3180104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d4f4e46c33e9050800000000000000
+      internalID: 5809137496164879728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boltcaster_13
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 71
+        width: 677
+        height: 335
+      alignment: 9
+      pivot: {x: 0.10044782, y: 0.48447207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bb921673eb4b940800000000000000
+      internalID: 5311079005639261082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: afe385affae3e4e1e93bbad87015533d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2486521743634864436
+    second: Dagger_0
+  - first:
+      213: -2233438043662490273
+    second: Dagger_1
+  - first:
+      213: 2143774042229285547
+    second: Dagger_2
+  - first:
+      213: 281995780705280719
+    second: Dagger_3
+  - first:
+      213: 1873461278561640320
+    second: Dagger_4
+  - first:
+      213: -4516685652848253980
+    second: Dagger_5
+  - first:
+      213: -5067282429674783632
+    second: Dagger_6
+  - first:
+      213: -5710014607308158051
+    second: Dagger_7
+  - first:
+      213: 8342537458643293375
+    second: Dagger_8
+  - first:
+      213: 6841548911419576325
+    second: Dagger_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dagger_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 368
+        width: 535
+        height: 266
+      alignment: 9
+      pivot: {x: 0.30341113, y: 0.8135892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6eb58f5a91e7dd0800000000000000
+      internalID: -2486521743634864436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger_1
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 356
+        width: 526
+        height: 294
+      alignment: 9
+      pivot: {x: 0.20351836, y: 0.7960593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5567abbeeb3101e0800000000000000
+      internalID: -2233438043662490273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger_2
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 405
+        width: 705
+        height: 231
+      alignment: 9
+      pivot: {x: 0.07816777, y: 0.782602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2a7c9122730cd10800000000000000
+      internalID: 2143774042229285547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger_3
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 405
+        width: 705
+        height: 231
+      alignment: 9
+      pivot: {x: 0.07816794, y: 0.782602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2e8112ba9d9e300800000000000000
+      internalID: 281995780705280719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger_4
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 405
+        width: 706
+        height: 231
+      alignment: 9
+      pivot: {x: 0.07876544, y: 0.76690173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f9d195b1fdff910800000000000000
+      internalID: 1873461278561640320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 73
+        width: 706
+        height: 231
+      alignment: 9
+      pivot: {x: 0.08390229, y: 0.76690197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e360e344528151c0800000000000000
+      internalID: -4516685652848253980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger_6
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 73
+        width: 704
+        height: 231
+      alignment: 9
+      pivot: {x: 0.077568576, y: 0.7826021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cf7a25a756da9b0800000000000000
+      internalID: -5067282429674783632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger_7
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 73
+        width: 705
+        height: 231
+      alignment: 9
+      pivot: {x: 0.083312035, y: 0.76690197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b0b15b7f3f1c0b0800000000000000
+      internalID: -5710014607308158051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger_8
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 73
+        width: 705
+        height: 231
+      alignment: 9
+      pivot: {x: 0.07816794, y: 0.7512018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4d2d33e95a6c370800000000000000
+      internalID: 8342537458643293375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger_9
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 17
+        width: 528
+        height: 294
+      alignment: 9
+      pivot: {x: 0.1702978, y: 0.7960593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500df92ac7012fe50800000000000000
+      internalID: 6841548911419576325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

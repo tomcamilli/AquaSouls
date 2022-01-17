@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 3a98ae60124bf4a1e81d3a39c34f9734
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -223077258277776544
+    second: Flintlock_0
+  - first:
+      213: -6722813146462681055
+    second: Flintlock_1
+  - first:
+      213: 5947500232283430492
+    second: Flintlock_2
+  - first:
+      213: 1107634913986858858
+    second: Flintlock_3
+  - first:
+      213: -8335058266536519254
+    second: Flintlock_4
+  - first:
+      213: 4124378118787189187
+    second: Flintlock_5
+  - first:
+      213: -2472174539335834851
+    second: Flintlock_6
+  - first:
+      213: 3979703479390048016
+    second: Flintlock_7
+  - first:
+      213: -1085845782284149937
+    second: Flintlock_8
+  - first:
+      213: -6625625412783318888
+    second: Flintlock_9
+  - first:
+      213: 3904451849130749629
+    second: Flintlock_10
+  - first:
+      213: -427435759853065030
+    second: Flintlock_11
+  - first:
+      213: 3274485006982596592
+    second: Flintlock_12
+  - first:
+      213: 4794936555014717939
+    second: Flintlock_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flintlock_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 916
+        width: 505
+        height: 346
+      alignment: 9
+      pivot: {x: 0.101776846, y: 0.6275843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06392ee5a6877ecf0800000000000000
+      internalID: -223077258277776544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_1
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 985
+        width: 655
+        height: 297
+      alignment: 9
+      pivot: {x: 0.08813448, y: 0.4669695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12804c1ff05c3b2a0800000000000000
+      internalID: -6722813146462681055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_2
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1033
+        width: 676
+        height: 296
+      alignment: 9
+      pivot: {x: 0.09367325, y: 0.33429202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e9ec633f3c98250800000000000000
+      internalID: 5947500232283430492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_3
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1033
+        width: 676
+        height: 296
+      alignment: 9
+      pivot: {x: 0.09367307, y: 0.3177214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fc105f51c1f5f00800000000000000
+      internalID: 1107634913986858858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_4
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1033
+        width: 675
+        height: 296
+      alignment: 9
+      pivot: {x: 0.09307111, y: 0.3177214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa958e8eaace35c80800000000000000
+      internalID: -8335058266536519254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 584
+        width: 676
+        height: 297
+      alignment: 9
+      pivot: {x: 0.108185016, y: 0.3018205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c944b11c0cbc3930800000000000000
+      internalID: 4124378118787189187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_6
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 584
+        width: 676
+        height: 297
+      alignment: 9
+      pivot: {x: 0.100929126, y: 0.3018205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d136f18ca5211bdd0800000000000000
+      internalID: -2472174539335834851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_7
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 584
+        width: 676
+        height: 297
+      alignment: 9
+      pivot: {x: 0.09367325, y: 0.33485016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f0e68aa3fba3730800000000000000
+      internalID: 3979703479390048016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_8
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 584
+        width: 676
+        height: 297
+      alignment: 9
+      pivot: {x: 0.108184636, y: 0.31833553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bd81a930d4ee0f0800000000000000
+      internalID: -1085845782284149937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_9
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 530
+        width: 675
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898df388acc0d04a0800000000000000
+      internalID: -6625625412783318888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 134
+        width: 676
+        height: 297
+      alignment: 9
+      pivot: {x: 0.093673356, y: 0.31833544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe2e0625466f2630800000000000000
+      internalID: 3904451849130749629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_11
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 134
+        width: 676
+        height: 297
+      alignment: 9
+      pivot: {x: 0.09367325, y: 0.31833544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abca8a9e071711af0800000000000000
+      internalID: -427435759853065030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_12
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 134
+        width: 676
+        height: 297
+      alignment: 9
+      pivot: {x: 0.10092904, y: 0.3018205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f74a8fc3ce417d20800000000000000
+      internalID: 3274485006982596592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flintlock_13
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 88
+        width: 655
+        height: 297
+      alignment: 9
+      pivot: {x: 0.09562299, y: 0.46697006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1003264690b8240800000000000000
+      internalID: 4794936555014717939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
